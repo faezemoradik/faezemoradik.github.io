@@ -2,10 +2,7 @@
 title: "CommonWhy: A Dataset for Evaluating Entity-Based Causal Commonsense Reasoning in Large Language Models"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-01-commonwhy
-excerpt: 'A dataset for evaluating entity-based causal commonsense reasoning in large language models.'
-date: 2026-07-01
-venue: 'Proc. ACM International Conference on Research and Development in Information Retrieval (SIGIR)'
-citation: 'A. Toroghi*, F. Moradi Kalarde*, and S. Sanner. &quot;CommonWhy: A Dataset for Evaluating Entity-Based Causal Commonsense Reasoning in Large Language Models.&quot; Accepted to appear in <i>Proc. ACM SIGIR</i>, 2026.'
+permalink: https://dl.acm.org/doi/abs/10.1145/3805712.3808628
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3805712.3808628'
+citation: 'A. Toroghi*, F. Moradi Kalarde*, and S. Sanner, "CommonWhy: A Dataset for Evaluating Entity-Based Causal Commonsense Reasoning in Large Language Models," in Proc. ACM Int. Conference on Research and Development in Information Retrieval (SIGIR), 2026.'
 ---
-Accepted to appear in Proc. ACM International Conference on Research and Development in Information Retrieval (SIGIR), 2026.

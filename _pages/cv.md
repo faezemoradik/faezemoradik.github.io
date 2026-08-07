@@ -15,8 +15,8 @@ Education
   * Research topics: LLM Post-Training (Reinforcement Learning, Test-Time Learning, Reasoning), Memory-Based Agentic AI
   * Supervisor: [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/)
 * Ph.D. in Electrical Engineering, ECE Department, University of Toronto, 2021 - 2025
-  * Distributed Machine Learning Systems, GPA 3.94/4
-  * Thesis: Differentially-Private and Dynamic Distributed Learning Systems
+  * Distributed Machine Learning Systems, Differential Privacy, GPA 3.94/4
+  * Thesis: Communication Design for Dynamic Distributed Learning Systems
   * Supervisors: [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang/index.html), [Prof. Min Dong](https://sites.google.com/ontariotechu.net/dong)
 * M.Sc. in Electrical Engineering, ECE Department, University of Tehran, 2018 - 2021
   * Communications Systems, GPA 18.9/20 (3.92/4)
@@ -34,7 +34,7 @@ Research experience
 * May 2023 - Aug 2023: Research Intern, Ericsson Canada
   * Topic: Federated Learning
 * Sep 2021 - Oct 2025: Graduate Student Researcher, [WCL Lab, ECE Department, University of Toronto](https://www.comm.utoronto.ca/~liang/group/WCL.html)
-  * Topics: Dynamic Distributed Learning Systems; Differential Privacy in ML
+  * Topics: Communication Design for Distributed Learning Systems; Differential Privacy in ML
 * Sep 2018 - Feb 2021: Graduate Student Researcher, CEL Lab, ECE Department, University of Tehran
   * Topic: Optimal Placement of Aerial Base Stations
 
@@ -52,17 +52,17 @@ Honors and awards
 * Granted exemption from the national M.Sc. entrance exam for exceptional academic performance, University of Tehran, 2018
 * Ranked 7th in cumulative GPA among 160 B.Sc. Electrical Engineering students (2014 cohort), University of Tehran, 2018
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Skills
 ======
@@ -71,4 +71,5 @@ Skills
 
 Service and leadership
 ======
+* Conference Reviewer, NeurIPS 2026
 * Journal Reviewer, IEEE Transactions on Wireless Communications (TWC)

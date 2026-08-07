@@ -11,11 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "Teaching Experience"
     url: /teaching/
-
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "CV"
     url: /cv/
