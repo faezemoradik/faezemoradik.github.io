@@ -69,7 +69,7 @@ Skills
 * **Programming:** Python (PyTorch, TensorFlow, NumPy, SciPy, Scikit-Learn, etc.), MATLAB, C, C++
 * **Languages:** Persian (Native), English (Fluent)
 
-Service and leadership
+Academic Service
 ======
-* Conference Reviewer, NeurIPS 2026
-* Journal Reviewer, IEEE Transactions on Wireless Communications (TWC)
+* Conference Reviewer: NeurIPS 2026, AAAI 2027
+* Journal Reviewer: IEEE Transactions on Wireless Communications (TWC)
