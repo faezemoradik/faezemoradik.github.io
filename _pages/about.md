@@ -33,7 +33,6 @@ News
 
 Selected awards
 ======
-* NeurIPS Travel Grant (2025)
 * Doctoral Completion Award, University of Toronto (2025)
 * Edward S. Rogers Sr. Graduate Scholarship, University of Toronto (2021)
 * Exemption from the national M.Sc. entrance exam for exceptional academic performance, University of Tehran (2018)
